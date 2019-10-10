@@ -1,1 +1,1 @@
-Testing storybook and `@invisinoapp/storybook-dsm`
+Testing storybook and `@invisionapp/storybook-dsm`
